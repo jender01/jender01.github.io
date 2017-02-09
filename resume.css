@@ -1,9 +1,33 @@
 body {
-    background-color: white;
-    font-family: Futura;
+    background-color: rgb(235, 247, 249);
+    font-family: Century Gothic;
+    border-style: none none none solid;
+    border-width: 100 px;
+    border-color: PowderBlue;
 }
 
-h1 {
+h1.name {
+    border-style: none;
+    font-weight: bold;
+    font-size: 28 px;
+    text-align: center;
+}
+
+h1.sections {
     border-style: none none solid none;
     border-color: blue;
+}
+
+h3 {
+    
+}
+
+
+p.italics {
+    font-style: italic;
+    font-weight: lighter;
+}
+
+ul{
+    list-style-type: disc;
 }
