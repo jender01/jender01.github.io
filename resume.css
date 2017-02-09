@@ -21,7 +21,7 @@ h1.sections {
     text-transform: uppercase;
 }
 
-h3.smalltext {
+.smalltext {
     font-size: 13px;
     font-style: normal;
     color: white;
@@ -42,4 +42,5 @@ p.maintext {
 
 ul{
     list-style-type: square;
+    color: rgb(41, 57, 75);
 }
