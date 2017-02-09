@@ -1,4 +1,9 @@
 body {
-    background-color: gray;
-    font-family: Garamond;
+    background-color: white;
+    font-family: Futura;
+}
+
+h1 {
+    border-style: none none solid none;
+    border-color: blue;
 }
