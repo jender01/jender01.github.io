@@ -24,6 +24,7 @@ h1.sections {
 h3.smalltext {
     font-size: 13px;
     font-style: normal;
+    color: white;
 }
 
 
@@ -35,10 +36,10 @@ p.italics {
 
 p.maintext {
     color: rgb(41, 57, 75);
+    padding-left: 5px;
 }
     
 
 ul{
     list-style-type: square;
-    color: PowderBlue;
 }
