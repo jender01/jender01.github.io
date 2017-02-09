@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: rgb(236, 247, 249);
     font-family: Century Gothic;
     border-style: none none none solid;
     border-width: 100px;
@@ -10,18 +10,19 @@ body {
     background-color: PowderBlue;
     border-style: none;
     font-weight: bold;
-    font-size: 28px;
+    font-size: 40px;
     text-align: center;
 }
 
 h1.sections {
-    background-color: rgb(236, 247, 249);
+    background-color: PowderBlue;
     border-style: none none solid none;
-    border-color: blue;
+    border-color: rgb(41, 57, 75);
+    text-transform: uppercase;
 }
 
 h3.smalltext {
-    font-size: 16px;
+    font-size: 13px;
     font-style: normal;
 }
 
@@ -39,4 +40,5 @@ p.maintext {
 
 ul{
     list-style-type: square;
+    color: PowderBlue;
 }
