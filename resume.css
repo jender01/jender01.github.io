@@ -1,33 +1,42 @@
 body {
-    background-color: rgb(235, 247, 249);
+    background-color: white;
     font-family: Century Gothic;
     border-style: none none none solid;
-    border-width: 100 px;
+    border-width: 100px;
     border-color: PowderBlue;
 }
 
 h1.name {
+    background-color: PowderBlue;
     border-style: none;
     font-weight: bold;
-    font-size: 28 px;
+    font-size: 28px;
     text-align: center;
 }
 
 h1.sections {
+    background-color: rgb(236, 247, 249);
     border-style: none none solid none;
     border-color: blue;
 }
 
-h3 {
-    
+h3.smalltext {
+    font-size: 16px;
+    font-style: normal;
 }
 
 
 p.italics {
     font-style: italic;
     font-weight: lighter;
+    color: rgb(41, 57, 75);
 }
 
+p.maintext {
+    color: rgb(41, 57, 75);
+}
+    
+
 ul{
-    list-style-type: disc;
+    list-style-type: square;
 }
