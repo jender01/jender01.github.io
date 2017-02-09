@@ -6,7 +6,7 @@ body {
     border-color: PowderBlue;
 }
 
-h1.name {
+#name {
     background-color: PowderBlue;
     border-style: none;
     font-weight: bold;
