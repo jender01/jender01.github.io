@@ -10,4 +10,8 @@ p.text {
     color: rgb(41, 57, 75);
     padding-left: 5px;
     }
+
+#image {
+    height: 200px
+}
     
